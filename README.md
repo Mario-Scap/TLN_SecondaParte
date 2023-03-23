@@ -1,7 +1,7 @@
 # TLN_SecondaParte
 Esercitazioni della seconda parte di Tecnologie Del Linguaggio Naturale
 
-# Prima Esercitazione: 
+# Prima Esercitazione
 La prima esercitazione prevedere di svolgere il task di Concept Similarity dato in input il documento WordSim353, contentne un set di Coppia a cui e' associato un punteggio di simiarita'/
 A partire dal documento in input, il task richiede di implementare metriche di similarity come Wu Palmer, Shortest Path e Leakock. Una volta calcolate le metriche, rappresentare l'indice di correlazione di Spearman 
 e Pearson e confrontare i risultati.
